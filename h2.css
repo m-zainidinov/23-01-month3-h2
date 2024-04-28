@@ -1,0 +1,13 @@
+input {
+    height: 20px;
+    width: 220px;
+}
+
+button {
+    height: 25.5px;
+    width: 100px;
+}
+
+h2.head {
+    color: blue;
+}
